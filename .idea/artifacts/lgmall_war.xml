@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lgmall:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lgmall.war">
+      <element id="artifact" artifact-name="lgmall:war exploded" />
+    </root>
+  </artifact>
+</component>
