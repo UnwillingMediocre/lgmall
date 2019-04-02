@@ -6,6 +6,6 @@
 <configuration>
     <typeAliases>
         <!--别名-->
-        <package name="com.stodger.pojo"/>
+        <package name="com.stodger.lgmall.pojo"/>
     </typeAliases>
 </configuration>
